@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "username": "phuhoang12",
+      "email": "vietanhdz@gmail.com",
+      "password": "123123",
+      "confirmPassword": "123123",
+      "id": 1
+    },
+    {
+      "username": "phuhoangcb97@gmail.com",
+      "email": "vietanhdz@gmail.com",
+      "password": "123123",
+      "confirmPassword": "123123",
+      "id": 2
+    },
+    {
+      "username": "phuhoangcb97@gmail.com",
+      "email": "vietanhdz@gmail.com",
+      "password": "123123",
+      "confirmPassword": "123123",
+      "id": 3
+    },
+    {
+      "username": "phuhoangcb97@gmail.com",
+      "email": "vietanhdz@gmail.com",
+      "password": "123123",
+      "confirmPassword": "123123",
+      "id": 4
+    }
+  ]
+}
